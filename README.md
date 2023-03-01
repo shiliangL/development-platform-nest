@@ -1,9 +1,9 @@
 ### 知识准备
 
-HTTP: 了解基本的 Get、Post 请求
-Node：基本明白接口请求，知道服务与接口关系即可
-Typescript：基本懂语法，能大致知道装饰器和 interface
-了解基本的 REST API
+- HTTP: 了解基本的 Get、Post 请求
+- Node：基本明白接口请求，知道服务与接口关系即可
+- Typescript：基本懂语法，能大致知道装饰器和 interface
+- 了解基本的 REST API
 
 ### 基本了解
 
@@ -16,9 +16,9 @@ NestJS 也主张的是 MVC 的格式。
 
 ### 自动生成
 
-nest g module question --no-spec
-nest g service question --no-spec
-nest g controller question --no-spec
+- nest g module question --no-spec
+- nest g service question --no-spec
+- nest g controller question --no-spec
 
 要创建新资源
-nest g resource [名称] --no-spec
+- nest g resource [名称] --no-spec
