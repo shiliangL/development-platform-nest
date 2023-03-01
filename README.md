@@ -20,5 +20,5 @@ NestJS 也主张的是 MVC 的格式。
 - nest g service question --no-spec
 - nest g controller question --no-spec
 
-要创建新资源
+要创建新资源模块
 - nest g resource [名称] --no-spec
